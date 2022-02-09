@@ -11,7 +11,7 @@ export default function Banner() {
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
-            GeeksforGeeks_SRMGPC chapter
+            GeeksforGeeks_SRMCEM chapter
           </Heading>
           <Text as="p" variant="heroSecondary">
           GeeksforGeeks student Chapters are university-based community chapters for students 
